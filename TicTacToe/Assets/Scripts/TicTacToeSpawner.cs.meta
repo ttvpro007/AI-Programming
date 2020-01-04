@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75fc69c55260fd645960e777aff08fba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - XPiece: {fileID: 8042897340542538784, guid: 625fa9d0054a0274287fb72aa0085ee8,
+      type: 3}
+  - OPiece: {fileID: 4961043932338373469, guid: 65417e4ea882c574b9181158104e7756,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
