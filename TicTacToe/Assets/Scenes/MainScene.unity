@@ -439,7 +439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27a0f09ea627abc4693f35c10096cc8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameMode: 0
+  gameMode: 2
   firstToPlay: 0
   movesToWin: 3
   curTurn: 0
@@ -848,14 +848,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d58035d11117bdd47a31863870e30539, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 0.5
+  delay: 0.1
   boardTile: {fileID: 1813984472459444301, guid: 0419bf0283e0a3340917da0064c01445,
     type: 3}
   gameBoard: {fileID: 1916178607}
   layerToSpawnOn:
     serializedVersion: 2
     m_Bits: 256
-  distanceBetweenTiles: 0.2016
+  distanceBetweenTiles: 0.1
 --- !u!4 &772881128
 Transform:
   m_ObjectHideFlags: 0
@@ -1047,7 +1047,7 @@ MonoBehaviour:
   limitedDepth: 1
   depth: 4
   spawnDelay: 1
-  delay: 0.5
+  delay: 0
   myTurn: 2
 --- !u!4 &1623663786
 Transform:
@@ -1163,7 +1163,7 @@ MonoBehaviour:
   limitedDepth: 1
   depth: 5
   spawnDelay: 1
-  delay: 0.5
+  delay: 0
   myTurn: 3
 --- !u!4 &1800796532
 Transform:
